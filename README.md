@@ -13,10 +13,12 @@ chmod +x compressPDF.sh
 ```
 
 ## Arguments
+```
  -l --low --screen	Low-resolution, lowest output size
  -m --medium --ebook	Medium-resolution
  -p --high --printer	High-resolution, perfect for printing
  -h --help		Print Help (this message) and exit
+```
 
 ## Author
 
